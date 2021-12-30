@@ -6,4 +6,6 @@ fun main() {
     println("Su dung github")
 
     println("Hello people")
+
+    println("Test push github success")
 }
